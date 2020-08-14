@@ -1,7 +1,7 @@
 # ViClaRA
-![](https://img.shields.io.badge/nextflow-20.04.1-brightgreen)
+![](http://img.shields.io/badge/nextflow-v20.04.1-lightgreen)
 ![](https://img.shields.io/badge/uses-docker-blue.svg)
-![](https://img.shields.io/badge/conda.svg)
+[![Anaconda-Server Badge](https://anaconda.org/conda-forge/mlconjug/badges/installer/conda.svg)](https://conda.anaconda.org/conda-forge)
 ![](https://img.shields.io/badge/licence-MIT-lightgrey.svg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/john_juma.svg?style=social)](https://twitter.com/john_juma)
